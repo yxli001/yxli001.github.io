@@ -1,0 +1,88 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profilepic {
+    border-radius: 50%;
+    width: 8rem;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #00adb5;
+}
+
+h2 {
+    margin-bottom: 2rem;
+    color: #00adb5;
+}
+
+p {
+    width: 30%;
+    margin: 0 auto;
+    color: #393e46;
+}
+
+.heading {
+    background-color: #eeeeee;
+    color: black;
+    text-align: center;
+    padding: 150px 300px 0px 300px;
+}
+
+.heading p {
+    font-size: 15px;
+    color: #00adb5;
+    width: 20%;
+    margin-bottom: 50px;
+}
+
+.cloud1 {
+    position: absolute;
+    left: 350px;
+    top: 320px;
+}
+
+.cloud2 {
+    position: absolute;
+    right: 350px;
+    top: 150px;
+}
+
+.about {
+    padding: 100px 150px 150px 150px;
+    text-align: center;
+}
+
+.contact-me {
+    text-align: center;
+    background-color: #222831;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-me p {
+    color: #eeeeee;
+}
+
+footer {
+    background-color: #222831;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #00adb5;
+    margin-right: 10px;
+}
+
+a:last-child {
+    margin-right: 0px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #eeeeee;
+}
